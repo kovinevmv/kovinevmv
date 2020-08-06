@@ -9,8 +9,7 @@
 
 
 <br />
-<img align="left" alt="kovinevmv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kovinevmv&count_private=true&show_icons=true" />
-
+<img alt="kovinevmv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kovinevmv&count_private=true&show_icons=true" />
 <img alt="kovinevmv's Github Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovinevmv&layout=compact" />
 
 
