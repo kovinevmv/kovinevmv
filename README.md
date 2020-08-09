@@ -10,9 +10,9 @@
 ### GitHub
 
 <table>
-    <tr>
-        <td align="center"><img alt="kovinevmv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kovinevmv&count_private=true&show_icons=true"/></td>
-        <td align="center"><img alt="kovinevmv's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovinevmv&layout=compact"/></td>
+    <tr style="border: 0;">
+        <td align="center" style="border: 0;"><img alt="kovinevmv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kovinevmv&count_private=true&show_icons=true"/></td>
+        <td align="center" style="border: 0;"><img alt="kovinevmv's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovinevmv&layout=compact"/></td>
     </tr>
 </table>
 
