@@ -1,10 +1,10 @@
 <h2>
     <a href="https://github.com/kovinevm">@kovinevmv </a>
     <a href="https://t.me/kovinevmv">
-        <img align="left" style="margin-left: 10px" alt="kovinevmv | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+        <img style="margin-left: 10px" alt="kovinevmv | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
     </a>
     <a href="mailto:kovinevmv@gmail.com">
-        <img align="left" style="margin-left: 10px" alt="kovinevmv | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+        <img style="margin-left: 10px" alt="kovinevmv | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
     </a>
 </h2>
 
