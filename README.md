@@ -22,8 +22,8 @@
 
 <table>
     <tr style="border: 0;">
-        <td align="center" style="border: 0;"><a href="https://wakatime.com/share/@3252d78c-8dea-48f1-aed9-7ca47009b346/c1c28e6e-8567-499f-8c5c-2bd848fa7cef.png"><img src="https://wakatime.com/share/@3252d78c-8dea-48f1-aed9-7ca47009b346/c1c28e6e-8567-499f-8c5c-2bd848fa7cef.png" /></a></td>
-        <td align="center" style="border: 0;"><a href="https://wakatime.com/share/@3252d78c-8dea-48f1-aed9-7ca47009b346/d0486e03-8aa1-47e1-9e67-9f86739efb11.png"><img src="https://wakatime.com/share/@3252d78c-8dea-48f1-aed9-7ca47009b346/d0486e03-8aa1-47e1-9e67-9f86739efb11.png" /></a></td>
+        <td align="center" style="border: 0;"><a href="https://wakatime.com/share/@3252d78c-8dea-48f1-aed9-7ca47009b346/cbaadd6c-31d4-4c62-92a2-b9d7e423d26f.png"><img src="https://wakatime.com/share/@3252d78c-8dea-48f1-aed9-7ca47009b346/cbaadd6c-31d4-4c62-92a2-b9d7e423d26f.png" /></a></td>
+        <td align="center" style="border: 0;"><a href="https://wakatime.com/share/@3252d78c-8dea-48f1-aed9-7ca47009b346/2e60df7e-b92c-49ce-9daa-ec8117f9ba17.png"><img src="https://wakatime.com/share/@3252d78c-8dea-48f1-aed9-7ca47009b346/2e60df7e-b92c-49ce-9daa-ec8117f9ba17.png" /></a></td>
     </tr>
 </table>
 
