@@ -51,7 +51,7 @@
   <p>
     <summary
       ><img
-        style="margin-left: 10px"
+        style="margin-left: 15px"
         alt="kovinevmv | Telegram"
         width="15px"
         src="https://cdn.worldvectorlogo.com/logos/wakatime.svg"
@@ -83,7 +83,7 @@
   <p>
     <summary
       ><img
-        style="margin-left: 10px"
+        style="margin-left: 15px"
         width="16px"
         src="https://media.lpgenerator.ru/images/494403/49711.png"
       /> Activity</summary
