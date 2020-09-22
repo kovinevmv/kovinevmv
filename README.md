@@ -6,7 +6,8 @@
       alt="kovinevmv | Telegram"
       width="22px"
       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"
-  /></a>
+    />
+  </a>
   <a href="mailto:kovinevmv@gmail.com">
     <img
       style="margin-left: 10px"
@@ -17,8 +18,9 @@
   </a>
 </h2>
 
+<h3>Statistics Overview</h3>
 <details>
-  <p><summary>Statistics from github.com</summary></p>
+  <p><summary>github.com</summary></p>
   <table>
     <tr style="border: 0;">
       <td align="center" style="border: 0; overflow-y: hidden">
@@ -30,7 +32,7 @@
       <td align="center" style="border: 0; overflow-y: hidden">
         <img
           alt="kovinevmv's Github Langs"
-          src="https://github-readme-stats.vercel.app/api/top-langs/README.md?username=kovinevmv&layout=compact"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovinevmv&layout=compact"
         />
       </td>
     </tr>
@@ -60,7 +62,7 @@
 </details>
 
 <details>
-  <p><summary>Activitu</summary></p>
+  <p><summary>Activity</summary></p>
   <a href="https://wakatime.com"
     ><img
       style="display: block; width: 80%; margin: auto"
@@ -68,4 +70,5 @@
   /></a>
 </details>
 
-[telegram]: https://t.me/kovinevmv [gmail]: mailto:kovinevmv@gmail.com
+[telegram]: https://t.me/kovinevmv 
+[gmail]: mailto:kovinevmv@gmail.com
