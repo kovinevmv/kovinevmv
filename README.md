@@ -23,7 +23,6 @@
   <p>
     <summary>
       <img
-        style="margin-left: 10px"
         width="15px"
         src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg"
       />
