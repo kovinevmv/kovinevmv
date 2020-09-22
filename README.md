@@ -20,15 +20,13 @@
 
 <h3>Statistics Overview</h3>
 <details>
-  <p>
-    <summary>
-      <img
-        width="15px"
-        src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg"
-      />
-      github.com
-    </summary>
-  </p>
+  <summary>
+    <img
+      width="15px"
+      src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg"
+    />
+    github.com
+  </summary>
   <table>
     <tr style="border: 0;">
       <td align="center" style="border: 0; overflow-y: hidden">
