@@ -20,7 +20,16 @@
 
 <h3>Statistics Overview</h3>
 <details>
-  <p><summary>github.com</summary></p>
+  <p>
+    <summary>
+      <img
+        style="margin-left: 10px"
+        width="15px"
+        src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg"
+      />
+      github.com
+    </summary>
+  </p>
   <table>
     <tr style="border: 0;">
       <td align="center" style="border: 0; overflow-y: hidden">
@@ -40,7 +49,17 @@
 </details>
 
 <details>
-  <p><summary>Wakatime</summary></p>
+  <p>
+    <summary
+      ><img
+        style="margin-left: 10px"
+        alt="kovinevmv | Telegram"
+        width="15px"
+        src="https://cdn.worldvectorlogo.com/logos/wakatime.svg"
+      />
+      Wakatime</summary
+    >
+  </p>
   <table>
     <tr style="border: 0;">
       <td align="center" style="border: 0;">
@@ -62,7 +81,15 @@
 </details>
 
 <details>
-  <p><summary>Activity</summary></p>
+  <p>
+    <summary
+      ><img
+        style="margin-left: 10px"
+        width="16px"
+        src="https://media.lpgenerator.ru/images/494403/49711.png"
+      /> Activity</summary
+    >
+  </p>
   <a href="https://wakatime.com"
     ><img
       style="display: block; width: 80%; margin: auto"
@@ -70,5 +97,5 @@
   /></a>
 </details>
 
-[telegram]: https://t.me/kovinevmv 
+[telegram]: https://t.me/kovinevmv
 [gmail]: mailto:kovinevmv@gmail.com
