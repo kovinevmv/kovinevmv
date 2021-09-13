@@ -23,7 +23,7 @@
   <summary>
     <img
       width="15px"
-      src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg"
+      src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
     />
     github.com
   </summary>
