@@ -1,18 +1,18 @@
 <h2>
-  <a href="https://github.com/kovinevmv" style="text-decoration: none !important">@kovinevmv </a>
-  <a href="https://t.me/kovinevmv" style="text-decoration: none !important">
+  <a href="https://github.com/kovinevmv">@kovinevmv</a>
+  
+  <a href="https://t.me/kovinevmv">
     <img
-      style="margin-left: 10px"
       alt="kovinevmv | Telegram"
       width="22px"
       src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
     />
   </a>
-  <a href="mailto:kovinevmv@gmail.com" style="text-decoration: none !important">
+    
+  <a href="mailto:kovinevmv@gmail.com">
     <img
-      style="margin-left: 10px"
       alt="kovinevmv | GMail"
-      width="22px"
+      width="24px"
       src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
     />
   </a>
@@ -28,14 +28,14 @@
     github.com
   </summary>
   <table>
-    <tr style="border: 0;">
-      <td align="center" style="border: 0; overflow-y: hidden">
+    <tr>
+      <td align="center">
         <img
           alt="kovinevmv's Github Stats"
           src="https://github-readme-stats.vercel.app/api?username=kovinevmv&count_private=true&show_icons=true"
         />
       </td>
-      <td align="center" style="border: 0; overflow-y: hidden">
+      <td align="center">
         <img
           alt="kovinevmv's Github Langs"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovinevmv&layout=compact"
@@ -47,9 +47,8 @@
 
 <details>
   <p>
-    <summary
-      ><img
-        style="margin-left: 3px; margin-right: 3px;"
+    <summary>
+      <img
         width="15px"
         src="https://cdn.worldvectorlogo.com/logos/wakatime.svg"
       />
@@ -57,15 +56,15 @@
     >
   </p>
   <table>
-    <tr style="border: 0;">
-      <td align="center" style="border: 0;">
+    <tr>
+      <td align="center">
         <a
           href="https://wakatime.com/share/@3252d78c-8dea-48f1-aed9-7ca47009b346/cbaadd6c-31d4-4c62-92a2-b9d7e423d26f.png"
           ><img
             src="https://wakatime.com/share/@3252d78c-8dea-48f1-aed9-7ca47009b346/cbaadd6c-31d4-4c62-92a2-b9d7e423d26f.png"
         /></a>
       </td>
-      <td align="center" style="border: 0;">
+      <td align="center">
         <a
           href="https://wakatime.com/share/@3252d78c-8dea-48f1-aed9-7ca47009b346/2e60df7e-b92c-49ce-9daa-ec8117f9ba17.png"
           ><img
@@ -80,7 +79,6 @@
   <p>
     <summary
       ><img
-        style="margin-left: 3px; margin-right: 3px;"
         width="16px"
         src="https://media.lpgenerator.ru/images/494403/49711.png"
       /> Activity</summary
@@ -88,7 +86,6 @@
   </p>
   <a href="https://wakatime.com"
     ><img
-      style="display: block; width: 80%; margin: auto"
       src="https://wakatime.com/share/@3252d78c-8dea-48f1-aed9-7ca47009b346/88d4d001-b929-425a-a22c-dae135a5f736.png"
   /></a>
 </details>
