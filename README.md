@@ -1,19 +1,19 @@
 <h2>
-  <a href="https://github.com/kovinevmv">@kovinevmv </a>
-  <a href="https://t.me/kovinevmv">
+  <a href="https://github.com/kovinevmv" style="text-decoration: none !important">@kovinevmv </a>
+  <a href="https://t.me/kovinevmv" style="text-decoration: none !important">
     <img
       style="margin-left: 10px"
       alt="kovinevmv | Telegram"
       width="22px"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
     />
   </a>
-  <a href="mailto:kovinevmv@gmail.com">
+  <a href="mailto:kovinevmv@gmail.com" style="text-decoration: none !important">
     <img
       style="margin-left: 10px"
       alt="kovinevmv | GMail"
       width="22px"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
     />
   </a>
 </h2>
