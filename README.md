@@ -16,6 +16,14 @@
       src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
     />
   </a>
+
+ <a href="https://boosty.to/kovinevmv/donate">
+    <img
+      alt="kovinevmv | Boosty"
+      width="24px"
+      src="https://boosty.to/favicon.ico"
+    />
+  </a>
 </h2>
 
 [![LeetCode user kovinevmv](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkovinevmv&logo=leetcode&logoColor=yellow)](https://leetcode.com/kovinevmv/)
