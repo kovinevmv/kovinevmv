@@ -1,21 +1,7 @@
 <h2>
   <a href="https://github.com/kovinevmv">@kovinevmv</a>
   
-  <a href="https://t.me/kovinevmv">
-    <img
-      alt="kovinevmv | Telegram"
-      width="22px"
-      src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
-    />
-  </a>
-    
-  <a href="mailto:kovinevmv@gmail.com">
-    <img
-      alt="kovinevmv | GMail"
-      width="24px"
-      src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
-    />
-  </a>
+
 
  <a href="https://boosty.to/kovinevmv/donate">
     <img
@@ -100,5 +86,3 @@
   /></a>
 </details>
 
-[telegram]: https://t.me/kovinevmv
-[gmail]: mailto:kovinevmv@gmail.com
